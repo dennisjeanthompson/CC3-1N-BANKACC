@@ -1,0 +1,16 @@
+C:\Users\JEP\source\repos\Classec\Classec\bin\Debug\net5.0\Classec.exe
+C:\Users\JEP\source\repos\Classec\Classec\bin\Debug\net5.0\Classec.deps.json
+C:\Users\JEP\source\repos\Classec\Classec\bin\Debug\net5.0\Classec.runtimeconfig.json
+C:\Users\JEP\source\repos\Classec\Classec\bin\Debug\net5.0\Classec.runtimeconfig.dev.json
+C:\Users\JEP\source\repos\Classec\Classec\bin\Debug\net5.0\Classec.dll
+C:\Users\JEP\source\repos\Classec\Classec\bin\Debug\net5.0\ref\Classec.dll
+C:\Users\JEP\source\repos\Classec\Classec\bin\Debug\net5.0\Classec.pdb
+C:\Users\JEP\source\repos\Classec\Classec\obj\Debug\net5.0\Classec.csproj.AssemblyReference.cache
+C:\Users\JEP\source\repos\Classec\Classec\obj\Debug\net5.0\Classec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JEP\source\repos\Classec\Classec\obj\Debug\net5.0\Classec.AssemblyInfoInputs.cache
+C:\Users\JEP\source\repos\Classec\Classec\obj\Debug\net5.0\Classec.AssemblyInfo.cs
+C:\Users\JEP\source\repos\Classec\Classec\obj\Debug\net5.0\Classec.csproj.CoreCompileInputs.cache
+C:\Users\JEP\source\repos\Classec\Classec\obj\Debug\net5.0\Classec.dll
+C:\Users\JEP\source\repos\Classec\Classec\obj\Debug\net5.0\ref\Classec.dll
+C:\Users\JEP\source\repos\Classec\Classec\obj\Debug\net5.0\Classec.pdb
+C:\Users\JEP\source\repos\Classec\Classec\obj\Debug\net5.0\Classec.genruntimeconfig.cache
